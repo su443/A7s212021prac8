@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A7s212021prac8</string>
+    <string name="titulo">Implementacion con JSON</string>
+    <string name="nombre">Ingresa tu Nombre</string>
+    <string name="edad">Ingresa tu Edad</string>
+    <string name="sexo">Ingresa tu Sexo</string>
+    <string name="json">JSON</string>
+    <string name="rJSON">Resultado JSON</string>
+    <string name="conviertejson">Convierte a JSON</string>
+    <string name="convierteclase">Convierte a Clase</string>
+</resources>
